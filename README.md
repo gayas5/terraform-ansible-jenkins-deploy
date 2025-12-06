@@ -1,11 +1,9 @@
 # terraform-ansible-jenkins-deploy
-Below is a **complete GitHub-ready repository** you can copy-paste into a new repo, including:
 
 ✅ Ansible Jinja2 template for index.html
 ✅ Updated playbook using template module
 ✅ Terraform example with DigitalOcean/GCP switch + local_file inventory generation
 ✅ Docker-based Jenkins setup
-✅ Full README.md
 
 ---
 
